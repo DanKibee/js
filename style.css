@@ -1,0 +1,9 @@
+div.mygallery{
+    width:100%;
+    height:auto;
+}
+div.mygallery div{
+    width:max-width;
+    height:auto;
+    float:left;
+}
